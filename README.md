@@ -1,6 +1,6 @@
-- 👋 Hi, I’m SAYAN DE
+-<h1> 👋 Hi, I’m SAYAN DE</h1>
 -    Currently I am in 2nd year of B.Tech in Computer Sc. and  Engineering 
-- 👀 I’m interested in Web development and Data Science
+-    I’m interested in Web development and Data Science
 
 
 <!---
