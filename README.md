@@ -1,5 +1,5 @@
 -<h1><p align="center"> 👋 Hi, I’m SAYAN DE</p></h1>
--    Currently I am in 3nd year of B.Tech in Computer Sc. and  Engineering 
+-    Currently I am in 3rd year of B.Tech in Computer Sc. and  Engineering 
 
 
 
