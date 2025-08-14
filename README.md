@@ -11,9 +11,9 @@
 ## 👨‍💻 About Me
 
 - 💡 I enjoy designing and developing **scalable backend systems** and **user-friendly web apps**
-- 🌱 Currently learning **Spring Security**, **Microservices**, and **Cloud Deployment**
+- 🌱 Currently learning **Spring Security**, **Microservices**, **Cloud Deployment**, and **React**
 - 🔧 Strong foundation in **Java**, **OOP**, **DSA**, and **Database Systems**
-- 🧠 Passionate about continuous learning and contributing to real-world projects
+- 🧠 Passionate about **continuous learning** and contributing to **real-world projects**
 
 ---
 
@@ -29,14 +29,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-00BCD4?style=flat&logo=swagger&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00BCD4?style=flat&logo=swagger&logoColor=white)
 
 ### 🧪 Tools & IDEs
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
